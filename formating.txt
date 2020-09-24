@@ -1,0 +1,2 @@
+select volume 5
+format fs=ntfs quick
