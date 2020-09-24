@@ -1,3 +1,2 @@
 # usb-formater
-#edit on your pc
-use my app to get the volume
+#edit on your pc and use my app to get the volume
